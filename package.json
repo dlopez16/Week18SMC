@@ -1,0 +1,27 @@
+{
+  "name": "week18smc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlopez16/Week18SMC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlopez16/Week18SMC/issues"
+  },
+  "homepage": "https://github.com/dlopez16/Week18SMC#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.0",
+    "request": "^2.74.0"
+  }
+}
